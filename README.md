@@ -241,6 +241,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
   * [Sentora](http://sentora.org/) - Control panel for Linux, BSD, and Windows based on ZPanel.
   * [VestaCP](http://vestacp.com/) - Hosting panel for Linux but with Nginx.
   * [Virtualmin](http://www.virtualmin.com/) - Hosting panel for Linux based on webmin.
+  * [aaPanel](https://www.aapanel.com/) - aaPanel is a simple but powerful control panel for linux server.one-click install LNMP/LAMP/OpenLiteSpeed developing environment and software
 * DNS
   * [Atomia DNS](http://atomiadns.com/) - DNS management system.
   * [nsedit](https://github.com/tuxis-ie/nsedit) - nsedit is a DNS editor for PowerDNS, working with PowerDNS's new API.
